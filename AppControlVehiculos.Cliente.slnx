@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/01.Capa Acceso Datos/">
+    <Project Path="AppControlVehiculos.AccesoDatos/AppControlVehiculos.AccesoDatos.csproj" />
+    <Project Path="AppControlVehiculos.Entities/AppControlVehiculos.Entities.csproj" />
+    <Project Path="AppControlVehiculos.Repositorio/AppControlVehiculos.Repositorio.csproj" />
+  </Folder>
+  <Folder Name="/02.Capa de Negocio/">
+    <Project Path="AppControlVehiculos.Negocio/AppControlVehiculos.Negocio.csproj" />
+  </Folder>
+  <Folder Name="/03.Capa Transversal/">
+    <Project Path="AppControlVehiculos.DTO/AppControlVehiculos.DTO.csproj" />
+  </Folder>
+  <Folder Name="/04.Capa Servidor/">
+    <Project Path="AppControlVehiculos.API/AppControlVehiculos.API.csproj" />
+  </Folder>
+  <Folder Name="/05.Capa Cliente/">
+    <Project Path="AppControlVehiculos.Cliente/AppControlVehiculos.Cliente.csproj" />
+  </Folder>
+</Solution>
